@@ -1,0 +1,15 @@
+
+
+
+--> Make sure all packages like rbx1,path planner packages are included 
+    else use 'sudo apt-get update' to update packages automatically
+--> Copy the scripts in sandbox make them executable and run to see the results.
+--> Run the commands in the new terminal always.
+--> commands that are necessary are given in scripts or use reference tutorials
+
+FILES INCLUDED
+
+--> Python scripts (5)
+--> Report (1)
+--> presentation (1)
+--> videos
