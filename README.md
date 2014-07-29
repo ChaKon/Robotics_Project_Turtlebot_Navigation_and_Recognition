@@ -13,3 +13,5 @@ Part II
 
 In this we have to recognize the image (Kinect mounted on turtlebot) in the environment and turtlebot should move using navigation algorithms used in first part and should stop infront of the image.
 Phython scripts were developed, links to the videos tested on turtlebot are provided in the report.
+
+For more details refer to report.
